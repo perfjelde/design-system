@@ -1,7 +1,7 @@
 {
-  "name": "learnstorybook-design-system-template",
+  "name": "design-system",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
@@ -82,5 +82,8 @@
   },
   "dependencies": {
     "@storybook/testing-library": "^0.2.2"
-  }
+  },
+  "description": "design-system",
+  "repository": "https://github.com/perfjelde/design-system.git",
+  "author": "Per Fjelde <perfjelde@hotmail.com>"
 }
