@@ -1,5 +1,5 @@
 {
-  "name": "design-system",
+  "name": "@perfjelde/design-system",
   "version": "0.1.0",
   "private": false,
   "main": "dist/cjs/index.js",
@@ -83,7 +83,7 @@
   "dependencies": {
     "@storybook/testing-library": "^0.2.2"
   },
-  "description": "design-system",
+  "description": "Storybook design system",
   "repository": "https://github.com/perfjelde/design-system.git",
   "author": "Per Fjelde <perfjelde@hotmail.com>"
 }
