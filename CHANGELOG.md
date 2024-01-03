@@ -1,4 +1,4 @@
-# v0.1.0 (Wed Jan 03 2024)
+# v0.1.6 (Wed Jan 03 2024)
 
 - Initial implementation with examples from tutorial
 
