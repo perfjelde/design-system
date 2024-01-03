@@ -5,7 +5,7 @@ export default {
   title: 'Design System/Avatar',
   component: Avatar,
   /*
-   * More on Storybook argTypes at:
+   * More on Storybook argTypes at::
    * https://storybook.js.org/docs/react/api/argtypes
    */
   argTypes: {
